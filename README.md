@@ -223,7 +223,7 @@ The API will be available at: `http://localhost:5228`
 
 ## Deployment
 
-The application is deployed and can be accessed at: [ http://aeki-store.onrender.com/ ]
+The application is deployed and can be accessed at: [ https://game-accessories-api.onrender.com ]
 
 ## Team Members
 
