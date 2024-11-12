@@ -2,16 +2,14 @@
 
 ## Project Overview
 
-This is a comprehensive backend system solution for an e-commerce website that specializing in furniture sales. The system provides a scalable and manageable infrastructure that handles essential aspects
+This is a comprehensive backend system solution for an e-commerce website that specializing in game accessories sales. The system provides a scalable and manageable infrastructure that handles essential aspects
 of e-commerce operations, including product catalog management, order processing,payment handling, and more.
 
 ## Product Display Structure
 
-The back-end system organizes the furniture inventory into a multi-level product catalog. At the top level are broad product categories, such as Bedroom and Living Room.
+The back-end system organizes the game accessories inventory into a multi-level product catalog. At the top level are broad product categories, such as Mouses and Keyboards.
 
-Within each primary category, there are granular subcategories. For instance, the Bedroom category includes subcategories like Beds, Dressers, and Nightstands.
-
-Each subcategory houses individual product listings. For example, under the Beds subcategory, you'll find specific items like King Bed, Single Bed, and Kids Bed, each with its own detailed information such as price,and weight.
+Within each primary category, there are granular subcategories that is sorted by brands. For instance, the Headsets category includes brands like Razer, SteelSeries, and Hyper X.
 
 **(Categories -> Subcategories -> Individual Products).**
 
